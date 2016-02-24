@@ -1,0 +1,27 @@
+{
+  "name": "cagliari-lod",
+  "version": "0.1.1",
+  "description": "Cagliari RDF OpenData (LOD).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cristianlai/cagliari-lod.git"
+  },
+  "keywords": [
+    "LOD",
+    "OpenData",
+    "Cagliari",
+    "RDF",
+    "OWL",
+    "Semantics"
+  ],
+  "author": "Cristian Lai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cristianlai/cagliari-lod/issues"
+  },
+  "homepage": "https://github.com/cristianlai/cagliari-lod"
+}
